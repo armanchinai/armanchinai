@@ -33,11 +33,11 @@ Your profile has been loaded successfully! Scroll down to learn more about Arman
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <!-- GitHub -->
-    <a href="https://www.github.com/ChinaiArman">
+    <a href="https://www.github.com/armanchinai">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <!-- Email -->
-    <a href="mailto:chinaiarman@gmail.com">
+    <a href="mailto:armanchinai@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <!-- Resume -->
@@ -60,7 +60,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 🎮 In my free time I tutor Computer Systems at BCIT, and coach various collegiate ESports teams in Blizzard's Overwatch.
 
-🌐 Feel free to explore my other projects and repositories <a href="https://github.com/ChinaiArman?tab=repositories&q=&type=&language=&sort=stargazers"> here</a>! If you wish to connect, my socials are linked above.
+🌐 Feel free to explore my other projects and repositories <a href="https://github.com/armanchinai?tab=repositories&q=&type=&language=&sort=stargazers"> here</a>! If you wish to connect, my socials are linked above.
 
 <!-- SKILLS -->
 
@@ -166,6 +166,6 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 ## My Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinaiArman" alt="Arman's GitHub streak"/>
-  <img alt="Arman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ChinaiArman&langs_count=8&layout=compact" height="192px" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanchinai" alt="Arman's GitHub streak"/>
+  <img alt="Arman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=armanchinai&langs_count=8&layout=compact" height="192px" width="49.5%"/>
 </div>
